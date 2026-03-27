@@ -7,7 +7,7 @@
     "plugins": [
         {
             "name": "mv-architecture",
-            "version": "1.0.2",
+            "version": "1.0.3",
             "description": "MV architecture skill for SwiftUI apps",
             "author": {
                 "name": "Meaningless Software",
@@ -17,6 +17,7 @@
             "skills": [
                 "./skills/mv-architecture"
             ],
+            "source": "./skills/mv-architecture",
             "homepage": "https://meaninglessware.com",
             "repository": "https://github.com/ajohnson388/Skills",
             "license": "Apache-2.0",
