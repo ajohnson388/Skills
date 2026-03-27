@@ -1,18 +1,18 @@
 {
-    "name": "ajohnson388",
-    "metadata": {
-        "description": "Skills for Claude",
-        "version": "1.0.0"
+    "name": "meaninglessware",
+    "owner": {
+        "name": "Meaningless Software",
+        "email": "meaninglessware@gmail.com"
     },
     "plugins": [
         {
             "name": "architecture-skills",
-            "description": "MV style architecture for SwiftUI apps",
-            "source": "./",
-            "strict": false,
-            "skills": [
-                "./skills/mv-architecture"
-            ]
+            "description": "MV architecture skill for SwiftUI apps",
+            "source": "./skills/mv-architecture",
+            "version": "1.0.0",
+            "author": {
+                "name": "DevTools Team"
+            }
         }
     ]
 }
