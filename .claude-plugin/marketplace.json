@@ -9,7 +9,7 @@
             "name": "mv-architecture",
             "description": "MV architecture skill for SwiftUI apps",
             "source": "./skills/mv-architecture",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "author": {
                 "name": "Meaningless Software"
             }
