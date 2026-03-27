@@ -6,7 +6,7 @@
     },
     "plugins": [
         {
-            "name": "architecture-skills",
+            "name": "mv-architecture",
             "description": "MV architecture skill for SwiftUI apps",
             "source": "./skills/mv-architecture",
             "version": "1.0.0",
