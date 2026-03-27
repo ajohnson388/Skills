@@ -26,6 +26,30 @@
                 "architecture",
                 "ios"
             ]
+        },
+        {
+            "name": "swiftui-pro",
+            "version": "1.0.0",
+            "description": "Paul Hudson's swiftui-pro skills",
+            "author": {
+                "name": "Paul Hudson",
+                "email": "paul@hackingwithswift.com",
+                "url": "https://github.com/twostraws"
+            },
+            "skills": [
+                "./swiftui-pro"
+            ],
+            "source": {
+                "source": "github",
+                "url": "twostraws/SwiftUI-Agent-Skill"
+            },
+            "homepage": "https://www.hackingwithswift.com/",
+            "repository": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+            "license": "MIT",
+            "keywords": [
+                "swiftui",
+                "ios"
+            ]
         }
     ]
 }
