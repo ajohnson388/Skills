@@ -29,7 +29,7 @@
         },
         {
             "name": "swiftui-pro",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "description": "Paul Hudson's swiftui-pro skills",
             "author": {
                 "name": "Paul Hudson",
@@ -41,7 +41,7 @@
             ],
             "source": {
                 "source": "github",
-                "url": "twostraws/SwiftUI-Agent-Skill"
+                "repo": "twostraws/SwiftUI-Agent-Skill"
             },
             "homepage": "https://www.hackingwithswift.com/",
             "repository": "https://github.com/twostraws/SwiftUI-Agent-Skill",
