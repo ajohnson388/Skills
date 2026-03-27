@@ -7,12 +7,24 @@
     "plugins": [
         {
             "name": "mv-architecture",
+            "version": "1.0.2",
             "description": "MV architecture skill for SwiftUI apps",
-            "source": "./skills/mv-architecture",
-            "version": "1.0.1",
             "author": {
-                "name": "Meaningless Software"
-            }
+                "name": "Meaningless Software",
+                "email": "meaninglessware@gmail.com",
+                "url": "https://meaninglessware.com"
+            },
+            "skills": [
+                "./skills/mv-architecture"
+            ],
+            "homepage": "https://meaninglessware.com",
+            "repository": "https://github.com/ajohnson388/Skills",
+            "license": "Apache-2.0",
+            "keywords": [
+                "swiftui",
+                "architecture",
+                "ios"
+            ]
         }
     ]
 }
